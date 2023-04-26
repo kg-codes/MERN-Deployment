@@ -1,0 +1,22 @@
+table, th, td {
+    border: 2px black solid;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
+.store-table{
+    display: flex;
+}
+
+.card {
+    border: 2px black solid;
+    width: 400px;
+    padding: 10px;
+}
+
+.headerhome {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
